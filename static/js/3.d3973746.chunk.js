@@ -1,0 +1,2 @@
+(this["webpackJsonpsk-portfolio"]=this["webpackJsonpsk-portfolio"]||[]).push([[3],{32:function(t,o,s){"use strict";s.r(o);s(0);var i=s(1);o.default=function(){return Object(i.jsx)("div",{children:"About"})}}}]);
+//# sourceMappingURL=3.d3973746.chunk.js.map
